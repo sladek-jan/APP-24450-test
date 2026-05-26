@@ -13,7 +13,7 @@
     "url": "git+https://github.com/sladek-jan/APP-24450-test.git"
   },
   "optionalDependencies": {
-    "app-24450-test-transitive": "github:sladek-jan/APP-24450-test-transitive#934b60c02e6be274b3a15dc116740d79fa6c5cc0"
+    "app-24450-test-transitive": "github:sladek-jan/APP-24450-test-transitive#3d581d8696a9097f6d1f6f525c9bc19eab5aa34a"
   },
   "author": "",
   "license": "ISC",
