@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "files": ["EVIL.js"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/sladek-jan/APP-24450-test/issues"
   },
-  "homepage": "https://github.com/sladek-jan/APP-24450-test#readme"
+  "homepage": "https://github.com/sladek-jan/APP-24450-test#readme",
+  "packageManager": "yarn@4.10.3",
 }
