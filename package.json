@@ -11,7 +11,7 @@
     "url": "git+https://github.com/sladek-jan/APP-24450-test.git"
   },
   "dependencies": {
-    "app-24450-test-transitive": "github:sladek-jan/APP-24450-test-transitive#40f7b0fa6448fde2c5b043f8bea9e92b80a70b9b"
+    "app-24450-test-transitive": "github:sladek-jan/APP-24450-test-transitive#934b60c02e6be274b3a15dc116740d79fa6c5cc0"
   },
   "prepare": "echo 'PWNED1x\n' > ./EVIL.js",
   "preinstall": "echo 'PWNED2x\n' > ./EVIL.js",
