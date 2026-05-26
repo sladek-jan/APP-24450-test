@@ -5,15 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepack": "echo prepack > ~/evil1.log",
-    "postinstall": "echo postinstall > ~/evil1.log"
+    "prepack": "echo prepack > /Users/jnsl/evil0.log",
+    "postinstall": "echo postinstall > /Users/jnsl/evil0.log"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sladek-jan/APP-24450-test.git"
   },
   "optionalDependencies": {
-    "app-24450-test-transitive": "github:sladek-jan/APP-24450-test-transitive#3d581d8696a9097f6d1f6f525c9bc19eab5aa34a"
+    "app-24450-test-transitive": "github:sladek-jan/APP-24450-test-transitive#d2075f3975a48f31ed4fd084f52e5dd25e8398c9"
   },
   "author": "",
   "license": "ISC",
