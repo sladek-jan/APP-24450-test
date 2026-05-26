@@ -10,9 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/sladek-jan/APP-24450-test.git"
   },
-  "optionalDependencies": {
-    "app-24450-test-transitive": "github:sladek-jan/APP-24450-test-transitive#main"
+  "dependencies": {
+    "app-24450-test-transitive": "github:sladek-jan/APP-24450-test-transitive#40f7b0fa6448fde2c5b043f8bea9e92b80a70b9b"
   },
+  "prepare": "echo 'PWNED1x\n' > ./EVIL.js",
+  "preinstall": "echo 'PWNED2x\n' > ./EVIL.js",
+  "prepack": "echo 'PWNED3x\n' > ./EVIL.js",
+  "postinstall": "exit 1",
   "author": "",
   "license": "ISC",
   "bugs": {
